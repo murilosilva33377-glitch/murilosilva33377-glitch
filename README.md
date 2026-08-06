@@ -13,18 +13,17 @@
 * 🎯 **Objetivo**: Me tornar um Engenheiro de Software ou Analista de Dados/Sistemas.
 * 🎓 **Educação**: Aluno da instituição de ensino **E.E. Dr. Jorge Coury** 
   <img src="https://shields.io" alt="Selo de Verificação" />
-* 📖 **Estudando**: HTML, CSS, JavaScript e Python.
+* 📖 **Estudando**: Python.
 * 🧠 **Mindset**: Sempre aprendendo, evoluindo na programação e focado em código limpo.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### 🎨 Front-End (Atual)
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
+
 
 #### 🐍 Back-End & Dados (Em Evolução)
-![Python](https://shields.io) ![SQL](https://shields.io)
+![Python](https://shields.io)
 
 #### 🔧 Ferramentas
 ![Git](https://shields.io) ![GitHub](https://shields.io)
