@@ -20,6 +20,9 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
 
 #### 🐍 Back-End & Dados (Em Evolução)
