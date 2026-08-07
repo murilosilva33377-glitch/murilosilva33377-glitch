@@ -37,6 +37,12 @@
 </p>
 
 ---
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dtrevisann744&theme=tokyonight&locale=pt_BR" alt="GitHub Streak"/>
+</p>
+
 
 ### 🎯 Meus Objetivos
 
