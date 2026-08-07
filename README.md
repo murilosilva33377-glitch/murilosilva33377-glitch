@@ -60,11 +60,12 @@
   <img src="https://vercel.app" height="150" alt="Linguagens mais usadas" />
 </p>
 
-🔥 **Sequência de Contribuições**
+# 🔥 Sequência de Contribuições
 
 <p align="left">
   <img src="https://herokuapp.com" height="145" alt="GitHub Streak" />
 </p>
+
 
 ---
 
