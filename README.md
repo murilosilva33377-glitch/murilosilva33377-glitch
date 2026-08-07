@@ -1,62 +1,61 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Murilo" alt="Typing SVG" /></a>
-# Olá, eu sou o Murilo 👋
+# Olá, eu sou o Murilo Silva 👋
 
 <p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <a href="https://git.io">
+    <img src="https://demolab.com+..." alt="Typing SVG" />
+  </a>
 </p>
 
-🚀 **Em constante evolução**
+🚀 **Em constante evolução e focado na construção de sistemas eficientes.**
 
 ---
 
-### 🚀 Sobre Mim
-* 🎯 **Objetivo**: Me tornar um Engenheiro de Software ou Analista de Dados/Sistemas.
-* 🎓 **Educação**: Aluno da instituição de ensino **E.E. Dr. Jorge Coury** 
-  <img src="https://shields.io" alt="Selo de Verificação" />
-* 📖 **Estudando**: Python.
-* 🧠 **Mindset**: Sempre aprendendo, evoluindo na programação e focado em código limpo.
+### 📂 Sobre Mim
+
+* 🎯 **Objetivo**: Ingressar no mercado como Engenheiro de Software ou Analista de Dados/Sistemas.
+* 🎓 **Educação**: Estudante de Desenvolvimento de Sistemas e aluno na **E.E. Dr. Jorge Coury**.
+* 📖 **Foco Atual**: Aprofundando em lógica de programação com Python, algoritmos e boas práticas.
+* 🧠 **Mindset**: Escrever código limpo, de fácil manutenção e arquitetura bem estruturada.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
-
-#### 🐍 Back-End & Dados (Em Evolução)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-#### 🔧 Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
----
-
-### 🎯 Meus Objetivos
-* 💻 Dominar as principais tecnologias do desenvolvimento web e análise de dados.
-* ⚙️ Construir projetos completos integrando front-end e back-end.
-* 📐 Aprender boas práticas, padrões de projeto e arquitetura de software.
-* 💼 Conquistar minha primeira oportunidade no mercado de tecnologia.
+* **Linguagem Principal**: Python (Foco em Back-End, Automação e Manipulação de Dados).
+* **Ecossistema**: Git, GitHub, VS Code e ambientes baseados em Linux.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas de Desempenho
+
+| 📈 Atividade no GitHub | 🗂️ Idiomas Mais Utilizados |
+| :-: | :-: |
+| <img src="https://vercel.app" height="160" alt="GitHub Stats" /> | <img src="https://vercel.app" height="160" alt="Top Langs" /> |
 
 <p align="left">
-  <img src="https://vercel.app" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" height="150" alt="Linguagens mais usadas" />
-</p>
-
-🔥 **Sequência de Contribuições**
-<p align="left">
-  <img src="https://herokuapp.com" height="145" alt="GitHub Streak" />
+  <img src="https://herokuapp.com" height="150" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Conecte-se Comigo
-* 💼 **LinkedIn**: https://www.linkedin.com/in/murilo-silva-3467293bb/
+### 🎯 Metas para o Futuro Próximo
+
+1. 💻 **Projetos Práticos**: Construir portfólios unindo automação em Python com bancos de dados.
+2. 📐 **Padrões de Projeto**: Absorver conceitos como OOP avançado (Programação Orientada a Objetos) e princípios SOLID.
+3. 💼 **Carreira**: Conquistar a primeira oportunidade de estágio ou vaga júnior na área de tecnologia.
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
