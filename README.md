@@ -59,4 +59,4 @@
 ---
 
 ### 📫 Conecte-se Comigo
-* 💼 **LinkedIn**: [![LinkedIn](https://shields.io)](https://linkedin.com)
+* 💼 **LinkedIn**: https://www.linkedin.com/in/murilo-silva-3467293bb/
