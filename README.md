@@ -26,11 +26,14 @@
 
 
 #### 🐍 Back-End & Dados (Em Evolução)
-![Python](https://shields.io)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 #### 🔧 Ferramentas
-![Git](https://shields.io) ![GitHub](https://shields.io)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 ---
 
 ### 🎯 Meus Objetivos
