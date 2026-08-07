@@ -10,7 +10,6 @@
 
 * 🎯 **Objetivo**: Me tornar um Engenheiro de Software ou Analista de Dados/Sistemas.
 * 🎓 **Educação**: Aluno da instituição de ensino **E.E. Dr. Jorge Coury** 
-  <img src="https://shields.io" alt="Selo de Verificação" />
 * 📖 **Estudando**: Python.
 * 🧠 **Mindset**: Sempre aprendendo, evoluindo na programação e focado em código limpo.
 
