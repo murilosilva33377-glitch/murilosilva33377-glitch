@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-* 🎯 **Objetivo**: Me tornar um Engenheiro de Software ou Analista de Dados/Sistemas.
+* 🎯 **Objetivo**: Me tornar um Engenheiro de Software ou Engenheiro de Segurança de Aplicações 
 * 🎓 **Educação**: Aluno da instituição de ensino do Curso técnico desenvolvimento de sistema **E.E. Dr. Jorge Coury** 
 * 📖 **Estudando**: Python.
 * 🧠 **Mindset**: Sempre aprendendo, evoluindo na programação e focado em código limpo.
