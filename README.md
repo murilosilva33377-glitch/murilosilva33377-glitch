@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="COLE_AQUI_O_LINK_DO_SEU_TYPING_SVG" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://githubusercontent.com" height="150" alt="stats graph" />
+  <img src="https://githubusercontent.com" height="150" alt="languages graph" />
+</div>
+
 
 <p align="center">🚀 <b>Em constante evolução</b></p>
 
