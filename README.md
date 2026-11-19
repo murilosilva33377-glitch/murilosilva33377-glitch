@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://githubusercontent.com" height="150" alt="stats graph" />
-  <img src="https://githubusercontent.com" height="150" alt="languages graph" />
-</div>
-
+<h1 align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</h1>
 
 <p align="center">🚀 <b>Em constante evolução</b></p>
 
@@ -25,7 +23,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://githubusercontent.com" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -73,5 +71,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://githubusercontent.com" alt="Snake animation" />
 </div>
