@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">Olá, eu sou o Murilo Silva 👋</h1>
 <p align="center">🚀 <b>Em constante evolução</b></p>
+
+
+
 
 ---
 
