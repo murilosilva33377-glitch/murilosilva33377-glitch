@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://herokuapp.com+👋" alt="Typing SVG" />
+  <img src="COLE_AQUI_O_LINK_DO_SEU_TYPING_SVG" alt="Typing SVG" />
 </h1>
 
 <p align="center">🚀 <b>Em constante evolução</b></p>
@@ -11,7 +11,7 @@
 <img align="right" height="165" src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" alt="Tux Linux Coding" />
 
 * 🎯 **Objetivo**: Me tornar um Engenheiro de Software ou Engenheiro de Segurança de Aplicações
-* 🎓 **Educação**: Aluno da instituição de ensino do Curso técnico desenvolvimento de sistema **E.E. Dr. Jorge Coury**
+* 🎓 **Educação**: Aluno do Curso Técnico em Desenvolvimento de Sistemas na **E.E. Dr. Jorge Coury**
 * 📖 **Estudando**: Python
 * 🧠 **Mindset**: Sempre aprendendo, evoluindo na programação e focado em código limpo
 
@@ -22,8 +22,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -60,7 +60,7 @@
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://spotify.com" target="_blank">
@@ -73,4 +73,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/snake-output/snake.svg" alt="Snake animation" />
 </div>
-
