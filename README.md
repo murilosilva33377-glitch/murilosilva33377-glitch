@@ -40,7 +40,7 @@
 
 ###
 
-<picture data-importer="pacman">
+<picture data-importer="main">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
