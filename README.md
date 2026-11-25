@@ -28,6 +28,15 @@
 </div>
 
 ###
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=murilosilva33377-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -37,9 +46,15 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murilosilva33377-glitch/murilosilva33377-glitch/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ###
+Ei, ei, ei! Você também gerou arquivos de workflow em .github/workflows .
+Não se esqueça de copiá-los também — seu README não funcionará sem eles!
+
+GitHub
+Doar
+Compartilhar
